@@ -1,0 +1,5 @@
+## just keep the folder
+/data/db
+
+## dump folder
+mongo-seed/mongo_dump_db
