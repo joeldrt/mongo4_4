@@ -1,3 +1,3 @@
 #! /bin/bash
 
-mongorestore -d mongo-db-name ./mong_dump_db/
+mongorestore -d mongo-db-name ./mongo_dump_db/
